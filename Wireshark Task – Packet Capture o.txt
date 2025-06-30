@@ -1,0 +1,19 @@
+# Wireshark Task – Packet Capture on Windows
+
+## What I Did
+- Installed and used Wireshark on Windows
+- Captured live traffic while browsing websites and pinging a server
+- Stopped capture and filtered by protocols
+
+## Protocols Found
+1. **DNS** – Used to convert website names to IPs
+2. **TCP** – Handles data transfer across network
+3. **HTTP** – Found when browsing websites
+
+## File Attached
+- `network_capture.pcap`
+
+## What I Learned
+- How to start and stop packet captures
+- How to filter traffic using protocol names
+- Basics of what DNS, HTTP, and TCP traffic looks like
